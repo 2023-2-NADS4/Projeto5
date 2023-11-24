@@ -1,0 +1,8 @@
+Link do Caderno: 
+https://colab.research.google.com/drive/1vabg3JbCht781qlHkL8qc67_xyFEJWFq#scrollTo=dbqvSO79Zqzn
+
+Link do Dataset 1 (Ataques e Custos): 
+https://www.sciencedirect.com/science/article/pii/S2352340921002080
+
+Link do Dataset 2 (Senhas): 
+https://www.kaggle.com/datasets/utkarshx27/passwords
